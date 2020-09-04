@@ -1,4 +1,5 @@
 # OS-Course-Design
+---
 
 ## 实验环境
 操作系统: Ubuntu 64位 18.10
@@ -15,9 +16,9 @@ cd build
 cmake ..
 make
 ```
-编译生成实验一的两个可执行文件 copy 和 procUI
-实验二的两个测试程序 testhello 和 testcopy
-以及实验四的可执行文件 myw_sysmonitor
+编译生成实验一的两个可执行文件 `copy` 和 `procUI`
+实验二的两个测试程序`testhello` 和 `testcopy`
+以及实验四的可执行文件 `myw_sysmonitor`
 
 ## EXP1-LINUX_UI
 1. 运行格式: `./copy <source_file> <target_file>`
@@ -43,4 +44,4 @@ make
 **功能大体完善，有几个页面有待改进**
 
 ## EXP5-File_System
-在build目录下运行 `./mywfs`
+运行： `./mywfs`
